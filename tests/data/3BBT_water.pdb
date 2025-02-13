@@ -1,0 +1,11 @@
+HEADER                                                        WATER
+EXPDTA    X-RAY DIFFRACTION
+REMARK   2 RESOLUTION. 2.80 ANGSTROMS.                                 
+REMARK  76                                                              
+REMARK  76 RECEPTOR TYROSINE-PROTEIN KINASE ERBB-4; CHAIN: B, D; SYNONYM
+CRYST1  102.682  102.682  185.124  90.00  90.00 120.00 P 61         12
+HETATM    1  O   HOH B   5     -30.982  49.671   4.575  1.00 36.78           O
+HETATM    2  O   HOH B  22     -50.455  40.249  14.801  1.00 53.63           O
+HETATM    3  O   HOH B  29     -47.979  60.770  20.689  1.00 55.47           O
+HETATM    4  O   HOH B  53     -33.753  51.170   6.229  1.00 40.86           O
+END
